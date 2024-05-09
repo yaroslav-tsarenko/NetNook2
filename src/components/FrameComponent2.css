@@ -1,0 +1,95 @@
+.nepal-card-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 9.98px;
+}
+.lets-rebuild-nepal-1 {
+  height: 162.36%;
+  width: 135.3%;
+  top: -34.72%;
+  right: -1.67%;
+  bottom: -27.64%;
+  left: -33.63%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-1-icon,
+.lets-rebuild-nepal-1,
+.nepal-card {
+  position: absolute;
+  overflow: hidden;
+}
+.image-1-icon {
+  height: 22.8%;
+  width: 16.02%;
+  top: 12.8%;
+  right: 8.11%;
+  bottom: 64.4%;
+  left: 75.87%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 2;
+}
+.nepal-card {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #ef3b5e;
+  width: 100%;
+  height: 100%;
+}
+.tag-icon32 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.tag-icon-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.tag-label {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: Inter;
+  color: #1d1d1d;
+  text-align: left;
+  display: inline-block;
+  min-width: 59px;
+}
+.tag {
+  cursor: pointer;
+  border: 0;
+  padding: 10px 16px;
+  background-color: #f2f8ff;
+  position: absolute;
+  top: 19px;
+  left: 19px;
+  border-radius: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  z-index: 3;
+}
+.nepal-card-parent {
+  align-self: stretch;
+  height: 250px;
+  position: relative;
+}

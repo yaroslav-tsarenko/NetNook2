@@ -1,0 +1,82 @@
+.stay-in-touch1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.be-the-first1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 500;
+}
+.stay-in-touch-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.email-address1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.line-arrow-right-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.email-address-group {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 36px;
+  gap: 10px;
+  white-space: nowrap;
+  font-size: 16px;
+  color: #000;
+}
+.social-icon1 {
+  align-self: stretch;
+  height: 24px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.frame-parent52 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 33px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 950px) {
+  .stay-in-touch1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .stay-in-touch1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frame-parent52 {
+    gap: 16px;
+  }
+}

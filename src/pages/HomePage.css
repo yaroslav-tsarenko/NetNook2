@@ -1,0 +1,139 @@
+.frame-parent,
+.home-page-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 1678px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-page-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 22px 80px 20px;
+  box-sizing: border-box;
+}
+.image-texts-child {
+  height: 800px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 624px;
+  min-height: 800px;
+}
+.empowering-connectivity-for {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.we-understand-the {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  text-align: left;
+}
+.empowering-connectivity-for-ev-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+.image-texts,
+.image-texts-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.image-texts-inner {
+  flex: 0.925;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 287px 36px;
+  box-sizing: border-box;
+  min-width: 624px;
+}
+.image-texts {
+  align-self: stretch;
+  flex-direction: row;
+  row-gap: 20px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: #fffcf5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1900px) {
+  .image-texts-child,
+  .image-texts-inner {
+    flex: 1;
+  }
+  .image-texts {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1425px) {
+  .image-texts-inner {
+    width: calc(100% - 40px);
+  }
+}
+@media screen and (max-width: 950px) {
+  .home-page-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .image-texts-child {
+    min-width: 100%;
+  }
+  .empowering-connectivity-for {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .image-texts-inner {
+    padding-top: 187px;
+    padding-bottom: 187px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .home-page-inner {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .empowering-connectivity-for {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .empowering-connectivity-for-ev-parent {
+    gap: 16px;
+  }
+  .image-texts-inner {
+    padding-top: 122px;
+    padding-bottom: 122px;
+    box-sizing: border-box;
+  }
+}

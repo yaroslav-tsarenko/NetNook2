@@ -1,0 +1,225 @@
+.our-mission-is,
+.vector-icon9 {
+  margin: 0 !important;
+  position: absolute;
+}
+.vector-icon9 {
+  width: 872px;
+  height: 250px;
+  top: 0;
+  left: -208px;
+  object-fit: cover;
+}
+.our-mission-is {
+  width: 254px;
+  top: 214px;
+  left: 48px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-div,
+.vector-parent {
+  position: relative;
+  border-radius: 64px;
+}
+.vector-parent {
+  height: 500px;
+  width: 350px;
+  background-color: #374375;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+}
+.rectangle-div {
+  width: 200px;
+  height: 350px;
+  background-color: rgba(217, 217, 217, 0.71);
+  display: none;
+}
+.div3 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 125px;
+  z-index: 1;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px 0 17px;
+}
+.uptime-guarantee-seamless {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  white-space: pre-wrap;
+  text-align: center;
+  z-index: 1;
+}
+.rectangle-group {
+  width: 200px;
+  border-radius: 64px;
+  background-color: rgba(217, 217, 217, 0.71);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 105.8px 20px 96.2px;
+  box-sizing: border-box;
+  gap: 12px;
+  font-size: 58.6px;
+  color: #262626;
+}
+.union-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.show-the-results,
+.show-the-results1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.show-the-results1 {
+  z-index: 2;
+  margin: 0 0 0-187px;
+}
+.show-the-results-parent,
+.union-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.union-parent {
+  height: 300px;
+  width: 350px;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 30px 20px 30.2px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.frame-child10 {
+  width: 200px;
+  height: 350px;
+  position: relative;
+  border-radius: 64px;
+  background-color: #374375;
+  display: none;
+}
+.div4 {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 71px;
+  z-index: 1;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 45px 0 44px;
+}
+.days-satisfaction-guarantee {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  white-space: pre-wrap;
+  text-align: center;
+  z-index: 1;
+}
+.rectangle-container {
+  width: 200px;
+  border-radius: 64px;
+  background-color: #374375;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 101.8px 20px 56.2px;
+  box-sizing: border-box;
+  gap: 12px;
+  font-size: 58.6px;
+}
+.union-icon1 {
+  align-self: stretch;
+  width: 350px;
+  position: relative;
+  max-height: 100%;
+  min-height: 500px;
+  max-width: 100%;
+}
+.frame-parent32 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 57px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1900px) {
+  .frame-parent32 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 950px) {
+  .div3,
+  .div4 {
+    font-size: 47px;
+    line-height: 56px;
+  }
+  .frame-parent32 {
+    gap: 28px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-mission-is {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div3 {
+    font-size: 35px;
+    line-height: 42px;
+  }
+  .show-the-results,
+  .show-the-results1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div4 {
+    font-size: 35px;
+    line-height: 42px;
+  }
+}

@@ -1,0 +1,40 @@
+.home-page-child,
+.review-parent {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.review-parent {
+  width: 1820px;
+  overflow-x: auto;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 0.1px 0 20px;
+  gap: 24px;
+}
+.home-page-child {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 80px 0;
+  z-index: 1;
+  text-align: center;
+  font-size: 22.9px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 950px) {
+  .home-page-child {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .home-page-child {
+    gap: 16px;
+  }
+}

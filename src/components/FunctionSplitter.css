@@ -1,0 +1,62 @@
+.profile-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.sign-in4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 48px;
+  white-space: nowrap;
+}
+.data-comparer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.fluentcart-20-regular-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.cart5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 31px;
+}
+.data-comparer1,
+.function-splitter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.data-comparer1 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 0 24px;
+  gap: 20px;
+}
+.function-splitter {
+  width: 238px;
+  justify-content: flex-end;
+  padding: 20px 0 20px 7px;
+  box-sizing: border-box;
+  gap: 8px;
+  text-align: center;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 950px) {
+  .function-splitter {
+    display: none;
+  }
+}

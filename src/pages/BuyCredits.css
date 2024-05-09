@@ -1,0 +1,23 @@
+.buy-credits {
+  width: 100%;
+  position: relative;
+  background-color: #fffcf5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .buy-credits {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .buy-credits {
+    gap: 20px;
+  }
+}

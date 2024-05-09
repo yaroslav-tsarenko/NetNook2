@@ -1,0 +1,1426 @@
+.select-available-countries2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.search-datapacks-from2 {
+  width: calc(100% - 96px);
+  border: 0;
+  outline: 0;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  color: #717171;
+  text-align: center;
+  display: inline-block;
+  min-width: 150px;
+  max-width: calc(100% - 88px);
+  padding: 0;
+}
+.search-normal-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.colors-palette,
+.properties-panel {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.properties-panel {
+  width: 527px;
+  border-radius: 8px;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 36px;
+  box-sizing: border-box;
+  gap: 64px;
+}
+.colors-palette {
+  width: 908px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.popular-countries2 {
+  position: relative;
+  line-height: 22px;
+}
+.flagsnepal-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.nepal8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.countries10 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #374375;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 138px 12px 24px;
+  gap: 20px;
+  color: #fff;
+}
+.flagsindia-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.india2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+}
+.countries11 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 143px 12px 24px;
+  gap: 20px;
+}
+.flagsjapan-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.japan2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 53px;
+}
+.countries12 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 135px 12px 24px;
+  gap: 20px;
+}
+.flagsmaldives-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.maldives2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 76px;
+}
+.countries13 {
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 112px 12px 24px;
+  gap: 24px;
+}
+.flagschina-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.china2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 49px;
+}
+.countries14 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 139px 12px 24px;
+  gap: 20px;
+}
+.countries-group,
+.popular-countries-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.countries-group {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 27px;
+  color: #000;
+}
+.popular-countries-group {
+  width: 260px;
+  align-items: center;
+  gap: 32px;
+}
+.logical-operator-icon,
+.nepal-ntc6 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc6 {
+  line-height: 22px;
+}
+.logical-operator-icon {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon6 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.global-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon6 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.tablermobiledata-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon6 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon6 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent2,
+.frame-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent15 {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days6,
+.gb6,
+.nepal9,
+.us-4506 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days6,
+.gb6,
+.us-4506 {
+  min-width: 35px;
+}
+.days6,
+.us-4506 {
+  min-width: 58px;
+}
+.us-4506 {
+  min-width: 67px;
+}
+.nepal-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.frame-parent14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon16 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button17 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon17 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button16,
+.data-packs6 {
+  display: flex;
+  align-items: center;
+}
+.button16 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs6 {
+  width: 332px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 332px;
+  max-width: 100%;
+}
+.data-packs-child2,
+.nepal-ntc7 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc7 {
+  line-height: 22px;
+}
+.data-packs-child2 {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon7 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.global-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon7 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.tablermobiledata-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon7 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon7 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent3,
+.frame-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent17 {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days7,
+.gb7,
+.nepal10,
+.us-4507 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days7,
+.gb7,
+.us-4507 {
+  min-width: 35px;
+}
+.days7,
+.us-4507 {
+  min-width: 58px;
+}
+.us-4507 {
+  min-width: 77px;
+}
+.nepal-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.frame-parent16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon18 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button19 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon19 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button18,
+.data-packs7 {
+  display: flex;
+  align-items: center;
+}
+.button18 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs7 {
+  width: 342px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 342px;
+  max-width: 100%;
+}
+.data-packs-child3,
+.nepal-ntc8 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc8 {
+  line-height: 22px;
+}
+.data-packs-child3 {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon8 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.global-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon8 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.tablermobiledata-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon8 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon8 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price8 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent4,
+.frame-parent19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent19 {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days8,
+.gb8,
+.nepal11,
+.us-4508 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days8,
+.gb8,
+.us-4508 {
+  min-width: 45px;
+}
+.days8,
+.us-4508 {
+  min-width: 58px;
+}
+.us-4508 {
+  min-width: 77px;
+}
+.nepal-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.frame-parent18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon20 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button21 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon21 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button20,
+.data-packs8 {
+  display: flex;
+  align-items: center;
+}
+.button20 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs8 {
+  width: 342px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 342px;
+  max-width: 100%;
+}
+.figma-file,
+.iterative-loop,
+.output-collector {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.iterative-loop {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.figma-file,
+.output-collector {
+  width: 1194px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.figma-file {
+  width: 1735px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 20.5px;
+  box-sizing: border-box;
+  gap: 20px;
+  text-align: left;
+  font-size: 18px;
+  color: #262626;
+}
+.tag-icon22 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button23 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+}
+.tag-icon23 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button22,
+.colors-palette-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button22 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  width: 400px;
+  border-radius: 16px;
+  align-items: center;
+  gap: 16px;
+}
+.colors-palette-parent {
+  align-self: stretch;
+  background-color: #dfaea0;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 96px 92.5px;
+  gap: 107px 153px;
+  min-height: 972px;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+.vector-icon4 {
+  height: 38px;
+  width: 34px;
+  position: relative;
+}
+.giftglyph4 {
+  height: 36px;
+  position: relative;
+  letter-spacing: 2.03px;
+  line-height: 110%;
+  font-weight: 800;
+  display: inline-block;
+}
+.logo12 {
+  width: 254px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.logologo-symbol-icon8 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.netnook9 {
+  position: relative;
+}
+.logo13,
+.netnook-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 12px 20px 0;
+}
+.logo13 {
+  padding: 0 7px;
+}
+.logo-parent1,
+.logo-parent2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.logo-parent2 {
+  width: 367px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  font-size: 33.3px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+.logo-parent1 {
+  width: 705px;
+  background-color: #374375;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 122.5px 20px;
+  box-sizing: border-box;
+  gap: 138px;
+  min-width: 705px;
+}
+.blog6,
+.faq1,
+.information3,
+.support2,
+.support3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.information3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1d1d1d;
+  min-width: 47px;
+}
+.blog6,
+.faq1,
+.support2,
+.support3 {
+  font-weight: 500;
+  min-width: 70px;
+}
+.blog6,
+.support2,
+.support3 {
+  min-width: 65px;
+}
+.support2,
+.support3 {
+  min-width: 33px;
+}
+.support3 {
+  min-width: 88px;
+}
+.information2 {
+  width: 142px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 38px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.company5 {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #1d1d1d;
+  display: inline-block;
+  min-width: 129px;
+}
+.about-us6,
+.careers2,
+.contact-us2,
+.hutteio5,
+.hutteio6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  font-weight: 500;
+}
+.hutteio5,
+.hutteio6 {
+  line-height: 22px;
+}
+.hutteio6 {
+  line-height: 135%;
+}
+.company4 {
+  width: 142px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.company7 {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #1d1d1d;
+  display: inline-block;
+  min-width: 68px;
+}
+.about-us7,
+.careers3 {
+  position: relative;
+  font-weight: 500;
+}
+.about-us7 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.careers3 {
+  align-self: stretch;
+  line-height: 135%;
+}
+.contact-us3 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 57px;
+}
+.contact-us3,
+.hutteio7,
+.hutteio8,
+.hutteio9 {
+  position: relative;
+  font-weight: 500;
+}
+.hutteio7 {
+  align-self: stretch;
+  line-height: 135%;
+}
+.hutteio8,
+.hutteio9 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 102px;
+}
+.hutteio9 {
+  min-width: 122px;
+}
+.company6,
+.information-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.company6 {
+  width: 142px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.information-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  flex-shrink: 0;
+}
+.terms-of-service1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 122px;
+}
+.image-recognizer {
+  width: 1px;
+  height: 17px;
+  position: relative;
+  border-right: 1px solid #000;
+  box-sizing: border-box;
+}
+.image-recognizer-wrapper {
+  height: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.privacy-policy1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 102px;
+}
+.frame-child1 {
+  width: 1px;
+  height: 17px;
+  position: relative;
+  border-right: 1px solid #000;
+  box-sizing: border-box;
+}
+.data-filter-inner {
+  height: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.cookies1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 58px;
+}
+.data-filter1 {
+  width: 378px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.payment-icons7 {
+  object-fit: cover;
+}
+.payment-icons7,
+.payment-icons8 {
+  align-self: stretch;
+  width: 49.7px;
+  position: relative;
+  border-radius: 5.85px;
+  max-height: 100%;
+  min-height: 35px;
+}
+.payment-icons10,
+.payment-icons9 {
+  object-fit: cover;
+}
+.payment-icons10,
+.payment-icons11,
+.payment-icons12,
+.payment-icons13,
+.payment-icons9 {
+  align-self: stretch;
+  width: 49.7px;
+  position: relative;
+  border-radius: 5.85px;
+  max-height: 100%;
+  min-height: 35px;
+}
+.payment-icons13 {
+  object-fit: cover;
+}
+.user-interface {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.copyright-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.netnook10 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 107px;
+}
+.connection-manager,
+.signal-multiplexer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.signal-multiplexer {
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.connection-manager {
+  flex-direction: row;
+  gap: 26px;
+  color: #1d1d1d;
+}
+.function-applier {
+  width: 550px;
+  height: 133.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 50px;
+  box-sizing: border-box;
+  gap: 26.1px;
+  color: #000;
+}
+.footer-child,
+.frame-parent20,
+.function-applier {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent20 {
+  width: 586px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 64px;
+}
+.footer-child {
+  flex: 1;
+  background-color: #fffcf5;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 73.4px 88px 73.5px;
+  box-sizing: border-box;
+  min-width: 790px;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(29, 29, 29, 0.75);
+  font-family: "IBM Plex Sans";
+}
+.credit,
+.footer-child,
+.footer4 {
+  display: flex;
+  align-items: flex-start;
+}
+.footer4 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  row-gap: 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32.5px;
+  color: #374375;
+  font-family: Lato;
+}
+.credit {
+  width: 100%;
+  position: relative;
+  background-color: #fffcf5;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1900px) {
+  .figma-file {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  .logo-parent1 {
+    flex: 1;
+  }
+  .footer4 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1425px) {
+  .data-packs6,
+  .data-packs7,
+  .data-packs8 {
+    flex: 1;
+  }
+  .iterative-loop {
+    flex-wrap: wrap;
+  }
+  .output-collector {
+    gap: 49px;
+  }
+  .figma-file {
+    max-width: 100%;
+  }
+  .colors-palette-parent {
+    gap: 76px;
+    padding-left: 46px;
+    padding-right: 46px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .select-available-countries2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .properties-panel {
+    gap: 32px;
+  }
+  .data-packs7,
+  .data-packs8 {
+    min-width: 100%;
+  }
+  .output-collector {
+    gap: 24px;
+  }
+  .figma-file {
+    max-width: 100%;
+  }
+  .colors-palette-parent {
+    gap: 38px;
+    padding: 62px 23px;
+    box-sizing: border-box;
+  }
+  .giftglyph4 {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .netnook9 {
+    font-size: 27px;
+  }
+  .logo-parent1 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .information-parent {
+    flex-wrap: wrap;
+  }
+  .user-interface {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent20 {
+    gap: 32px;
+  }
+  .footer-child {
+    padding: 48px 44px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .select-available-countries2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .properties-panel {
+    gap: 16px;
+  }
+  .countries10,
+  .countries11,
+  .countries12,
+  .countries13,
+  .countries14 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .popular-countries-group {
+    gap: 16px;
+  }
+  .frame-parent14 {
+    flex-wrap: wrap;
+  }
+  .data-packs6 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .frame-parent16 {
+    flex-wrap: wrap;
+  }
+  .data-packs7 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .frame-parent18 {
+    flex-wrap: wrap;
+  }
+  .data-packs8 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .figma-file {
+    max-width: 100%;
+  }
+  .colors-palette-parent {
+    gap: 19px;
+  }
+  .giftglyph4 {
+    font-size: 19px;
+    line-height: 21px;
+  }
+  .netnook9 {
+    font-size: 20px;
+  }
+  .logo-parent1 {
+    gap: 69px;
+  }
+  .data-filter1 {
+    flex-wrap: wrap;
+  }
+  .function-applier {
+    height: auto;
+  }
+  .frame-parent20 {
+    gap: 16px;
+  }
+  .footer-child {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

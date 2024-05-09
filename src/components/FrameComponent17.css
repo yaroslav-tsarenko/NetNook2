@@ -1,0 +1,129 @@
+.copyright-instance-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 30px 0 0;
+  box-sizing: border-box;
+  min-width: 640px;
+  max-width: 100%;
+}
+.checkout3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 80px;
+}
+.header4 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #374375;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+}
+.your-personal-data {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.tag-icon57 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button55 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 68px;
+}
+.tag-icon58 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button54 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.checkout-details4,
+.checkout2,
+.frame-parent62 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkout-details4 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 36px 24px;
+  gap: 36px;
+  font-size: 16px;
+  color: #000;
+}
+.checkout2,
+.frame-parent62 {
+  max-width: 100%;
+}
+.checkout2 {
+  width: 504px;
+  flex-direction: column;
+  min-width: 504px;
+}
+.frame-parent62 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 47px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1525px) {
+  .checkout2 {
+    flex: 1;
+  }
+  .frame-parent62 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 850px) {
+  .copyright-instance-wrapper {
+    min-width: 100%;
+  }
+  .checkout-details4 {
+    gap: 18px;
+  }
+  .checkout2 {
+    min-width: 100%;
+  }
+  .frame-parent62 {
+    gap: 23px;
+  }
+}

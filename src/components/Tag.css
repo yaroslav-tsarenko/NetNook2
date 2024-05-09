@@ -1,0 +1,32 @@
+.logologo-symbol-icon17 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.tag-label2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 90px;
+}
+.circle-cluster,
+.tag2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 39px 0 0;
+}
+.tag2 {
+  border-radius: 2363.11px;
+  background-color: #f2f8ff;
+  flex-direction: row;
+  padding: 12px 24px;
+  gap: 4px;
+  text-align: left;
+  font-size: 18px;
+  color: #1d1d1d;
+  font-family: "IBM Plex Sans";
+}

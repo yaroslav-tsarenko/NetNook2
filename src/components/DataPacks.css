@@ -1,0 +1,210 @@
+.data-packs-child4,
+.nepal-ntc9 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc9 {
+  line-height: 22px;
+}
+.data-packs-child4 {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon9 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage9 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.global-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon9 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data9 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.tablermobiledata-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon9 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity9 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon9 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price9 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent5,
+.frame-parent34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent34 {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days9,
+.gb9,
+.nepal12,
+.us-4509 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days9,
+.gb9,
+.us-4509 {
+  min-width: 35px;
+}
+.days9,
+.us-4509 {
+  min-width: 58px;
+}
+.us-4509 {
+  min-width: 67px;
+}
+.nepal-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.frame-parent33 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon26 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button27 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon27 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button26,
+.data-packs9 {
+  display: flex;
+  align-items: center;
+}
+.button26 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs9 {
+  width: 332px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 332px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #262626;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1425px) {
+  .data-packs9 {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent33 {
+    flex-wrap: wrap;
+  }
+  .data-packs9 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

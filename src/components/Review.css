@@ -1,0 +1,66 @@
+.quote-up-icon {
+  width: 34.4px;
+  height: 34.4px;
+  position: relative;
+}
+.ive-been-using {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.quote-up-icon1 {
+  width: 34.4px;
+  height: 34.4px;
+  position: relative;
+  object-fit: contain;
+}
+.quote-up-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 34.4px;
+}
+.vibekn {
+  align-self: stretch;
+  position: relative;
+  font-size: 25.8px;
+  line-height: 31px;
+}
+.review {
+  width: 608.1px;
+  border-radius: 71.71px;
+  background-color: #374375;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 17.2px 34.4px;
+  box-sizing: border-box;
+  gap: 45.9px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 22.9px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 950px) {
+  .quote-up-parent {
+    gap: 17px;
+  }
+  .review {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ive-been-using,
+  .vibekn {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .vibekn {
+    font-size: 21px;
+  }
+}

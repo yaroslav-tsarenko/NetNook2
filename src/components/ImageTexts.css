@@ -1,0 +1,318 @@
+.shop-our-best {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.whether-youre-looking {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  text-align: left;
+}
+.image-texts-inner1,
+.shop-our-best-sellers-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.shop-our-best-sellers-parent {
+  align-self: stretch;
+  gap: 32px;
+}
+.image-texts-inner1 {
+  width: 544px;
+  padding: 73.5px 0 0;
+  box-sizing: border-box;
+  min-width: 544px;
+  flex-shrink: 0;
+}
+.frame-child11 {
+  height: 288px;
+  width: 1256px;
+  position: absolute;
+  margin: 0 !important;
+  top: -142px;
+  left: -25px;
+  background-color: #605f4b;
+}
+.nepal-card-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 9.98px;
+}
+.lets-rebuild-nepal-11 {
+  height: 162.36%;
+  width: 135.3%;
+  top: -34.72%;
+  right: -1.67%;
+  bottom: -27.64%;
+  left: -33.63%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-1-icon1,
+.lets-rebuild-nepal-11,
+.nepal-card1 {
+  position: absolute;
+  overflow: hidden;
+}
+.image-1-icon1 {
+  height: 22.8%;
+  width: 16.02%;
+  top: 12.8%;
+  right: 8.11%;
+  bottom: 64.4%;
+  left: 75.87%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 2;
+}
+.nepal-card1 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #ef3b5e;
+  width: 100%;
+  height: 100%;
+}
+.tag-icon33 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.tag-label1 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: Inter;
+  color: #1d1d1d;
+  text-align: left;
+  display: inline-block;
+  min-width: 30px;
+}
+.tag1 {
+  cursor: pointer;
+  border: 0;
+  padding: 10px 15px;
+  background-color: #f2f8ff;
+  position: absolute;
+  top: 19px;
+  left: 19px;
+  border-radius: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  z-index: 3;
+}
+.tag1:hover {
+  background-color: #d9dee6;
+}
+.nepal-card-group {
+  align-self: stretch;
+  height: 250px;
+  position: relative;
+}
+.listing-single-block-deskt,
+.listing-single-block-deskt1 {
+  width: 402px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.div6,
+.gb11 {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.div6 {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Inter;
+  white-space: nowrap;
+}
+.tag-icon34 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.button33 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 81px;
+}
+.tag-icon35 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button-frame,
+.button32 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+}
+.button32 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #374375;
+  justify-content: center;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.button-frame {
+  align-self: stretch;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+}
+.gb-group,
+.listing-single-block-deskt2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.gb-group {
+  align-self: stretch;
+  justify-content: center;
+  gap: 18px;
+}
+.listing-single-block-deskt2 {
+  width: 402px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.image-texts2,
+.listing-single-block-deskt-group,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.listing-single-block-deskt-group {
+  width: 1231px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  gap: 32px;
+  z-index: 1;
+}
+.image-texts2,
+.rectangle-parent1 {
+  box-sizing: border-box;
+}
+.rectangle-parent1 {
+  padding: 0 39px 0 0;
+  position: relative;
+  min-width: 1270px;
+  text-align: left;
+  font-size: 24px;
+  color: #1d1d1d;
+}
+.image-texts2 {
+  align-self: stretch;
+  background-color: #fff;
+  padding: 262px 120px 201px;
+  gap: 25px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1900px) {
+  .image-texts-inner1 {
+    flex: 1;
+  }
+  .rectangle-parent1 {
+    flex: 1;
+    padding-right: 0;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .image-texts2 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1425px) {
+  .image-texts2 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .shop-our-best {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .shop-our-best-sellers-parent {
+    gap: 16px;
+  }
+  .image-texts-inner1 {
+    min-width: 100%;
+  }
+  .listing-single-block-deskt-group {
+    gap: 16px;
+  }
+  .image-texts2 {
+    padding: 170px 30px 131px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .shop-our-best {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .gb11 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .image-texts2 {
+    padding-top: 110px;
+    padding-bottom: 85px;
+    box-sizing: border-box;
+  }
+}

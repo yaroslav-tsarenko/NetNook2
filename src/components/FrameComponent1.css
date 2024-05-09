@@ -1,0 +1,254 @@
+.how-netnook-works {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.smartphone-1-icon {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  object-fit: contain;
+}
+.download-the-app {
+  margin: 0;
+  width: 209px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.logologo-symbol-icon16 {
+  width: 37.6px;
+  height: 37.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.netnook22 {
+  position: relative;
+  display: inline-block;
+  min-width: 52px;
+}
+.logo25,
+.netnook-wrapper15,
+.smartphone-1-parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.netnook-wrapper15 {
+  flex-direction: row;
+  padding: 0 4px 0 0;
+}
+.logo25,
+.smartphone-1-parent {
+  flex-direction: column;
+}
+.logo25 {
+  margin: 0 !important;
+  position: absolute;
+  top: 192.2px;
+  left: 152px;
+  padding: 0 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 12.5px;
+  color: #374375;
+  font-family: "IBM Plex Sans";
+}
+.smartphone-1-parent {
+  flex: 0.9705;
+  padding: 119.5px 20px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 32px;
+  min-width: 301px;
+  max-width: 100%;
+}
+.location-1-icon {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  object-fit: contain;
+}
+.choose-your-destination {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.location-1-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 105px 14.5px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 301px;
+  max-width: 100%;
+}
+.qr-code-1-1 {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  object-fit: contain;
+}
+.install-your-esim {
+  margin: 0;
+  width: 189px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.qr-code-1-1-parent {
+  flex: 0.9705;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 119.5px 20px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 301px;
+  max-width: 100%;
+}
+.checked-1-1 {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  object-fit: contain;
+}
+.activate-your-esim {
+  margin: 0;
+  width: 214px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.checked-1-1-parent {
+  flex: 0.9705;
+  flex-direction: column;
+  padding: 119.5px 20px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 301px;
+}
+.checked-1-1-parent,
+.frame-parent38,
+.how-netnook-works-parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.frame-parent38 {
+  width: 1680px;
+  flex-direction: row;
+  gap: 24px;
+  font-size: 24px;
+  color: #1d1d1d;
+  font-family: "Futura PT";
+}
+.how-netnook-works-parent {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1425px) {
+  .frame-parent38 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 950px) {
+  .how-netnook-works {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .location-1-parent,
+  .smartphone-1-parent {
+    padding-top: 78px;
+    padding-bottom: 78px;
+    box-sizing: border-box;
+  }
+  .location-1-parent {
+    padding-top: 68px;
+    padding-bottom: 68px;
+  }
+  .checked-1-1-parent,
+  .qr-code-1-1-parent {
+    padding-top: 78px;
+    padding-bottom: 78px;
+    box-sizing: border-box;
+  }
+  .how-netnook-works-parent {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-netnook-works {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .download-the-app {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .smartphone-1-parent {
+    flex: 1;
+  }
+  .choose-your-destination {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .location-1-parent {
+    gap: 16px;
+  }
+  .install-your-esim {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .qr-code-1-1-parent {
+    flex: 1;
+  }
+  .activate-your-esim {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .checked-1-1-parent {
+    gap: 16px;
+    flex: 1;
+  }
+  .how-netnook-works-parent {
+    gap: 16px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

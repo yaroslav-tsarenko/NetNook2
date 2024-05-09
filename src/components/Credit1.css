@@ -1,0 +1,132 @@
+.b6 {
+  position: absolute;
+  top: calc(50% - 26px);
+  left: calc(50% - 45px);
+  line-height: 52px;
+  display: inline-block;
+  min-width: 90px;
+}
+.game-iconsnest-eggs {
+  position: absolute;
+  top: 156px;
+  left: 286px;
+  width: 48px;
+  height: 48px;
+  z-index: 1;
+}
+.parent2 {
+  height: 350px;
+  backdrop-filter: blur(250px);
+  border-radius: 16px;
+  background-color: #605f4b;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-family: Inter;
+}
+.credits,
+.div14,
+.parent2 {
+  align-self: stretch;
+  position: relative;
+}
+.credits {
+  font-size: 14px;
+  line-height: 150%;
+  text-transform: capitalize;
+  color: #545454;
+}
+.div14 {
+  font-size: 24px;
+  line-height: 29px;
+  color: #1d1d1d;
+  white-space: nowrap;
+}
+.tag-icon53 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.button49 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 81px;
+}
+.button-wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.tag-icon54 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button48 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #374375;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+}
+.button-wrapper5,
+.credit1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-wrapper5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  flex-direction: row;
+  max-width: 100%;
+}
+.credit1 {
+  width: 544px;
+  flex-shrink: 0;
+  flex-direction: column;
+  gap: 16px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 950px) {
+  .b6 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .b6 {
+    font-size: 29px;
+    line-height: 31px;
+  }
+  .div14 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

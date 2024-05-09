@@ -1,0 +1,140 @@
+.logologo-symbol-icon18 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.netnook25 {
+  position: relative;
+  white-space: nowrap;
+}
+.logo27,
+.netnook-wrapper17 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 12px 20px 0;
+}
+.logo27 {
+  padding: 0 5px;
+  text-align: left;
+  font-size: 33.3px;
+  color: #000;
+}
+.about-us23,
+.partner-with-us7 {
+  white-space: nowrap;
+}
+.about-us23,
+.blog16,
+.community7,
+.partner-with-us7 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.partner-with-us-parent1 {
+  width: 568px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.profile-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.sign-in5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 48px;
+  white-space: nowrap;
+}
+.profile-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.fluentcart-20-regular-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.cart6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 31px;
+}
+.fluentcart-20-regular-parent1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  gap: 20px;
+}
+.frame-parent55,
+.navigation7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-parent55 {
+  width: 238px;
+  justify-content: flex-end;
+  padding: 20px 0 20px 7px;
+  gap: 8px;
+}
+.navigation7 {
+  align-self: stretch;
+  background-color: #fffcf5;
+  overflow: hidden;
+  justify-content: space-between;
+  padding: 0 120px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1425px) {
+  .partner-with-us-parent1 {
+    display: none;
+  }
+  .navigation7 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .frame-parent55 {
+    display: none;
+  }
+  .navigation7 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}

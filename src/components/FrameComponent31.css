@@ -1,0 +1,126 @@
+.arrow-left-icon2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.arrow-left-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.back2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 36px;
+}
+.button-wrapper10,
+.button58 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button58 {
+  align-self: stretch;
+  border-radius: 32px 32px 32px 0;
+  flex-direction: row;
+  padding: 12px;
+  gap: 10px;
+}
+.button-wrapper10 {
+  width: 182px;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+  box-sizing: border-box;
+}
+.contact-us19 {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #262626;
+}
+.home {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.arrow-right-icon3 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.arrow-right-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.contact-us20 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 79px;
+}
+.button-wrapper11,
+.button59,
+.frame-parent71 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button59 {
+  border-radius: 32px 32px 32px 0;
+  flex-direction: row;
+  padding: 12px 11.5px;
+  gap: 10px;
+}
+.button-wrapper11,
+.frame-parent71 {
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.frame-parent71 {
+  align-self: stretch;
+  background-color: #dbdcf0;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 80px 120px;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent71 {
+    flex-wrap: wrap;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .contact-us19 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent71 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .contact-us19 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

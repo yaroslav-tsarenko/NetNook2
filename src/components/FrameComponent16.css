@@ -1,0 +1,124 @@
+.arrow-left-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.arrow-left-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.back {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 36px;
+}
+.button-wrapper7,
+.button50 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button50 {
+  border-radius: 32px 32px 32px 0;
+  flex-direction: row;
+  padding: 12px;
+  gap: 10px;
+}
+.button-wrapper7 {
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.your-cart {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #262626;
+}
+.cart7 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 31px;
+}
+.arrow-right-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.function-definition {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.cart-details {
+  position: relative;
+  line-height: 22px;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 88px;
+}
+.button51,
+.frame-parent57,
+.statement-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button51 {
+  border-radius: 32px 32px 32px 0;
+  flex-direction: row;
+  padding: 12px;
+  gap: 10px;
+}
+.frame-parent57,
+.statement-list {
+  flex-direction: column;
+  padding: 3.5px 0 0;
+}
+.frame-parent57 {
+  align-self: stretch;
+  background-color: #dbdcf0;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 80px 192px;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent57 {
+    flex-wrap: wrap;
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .your-cart {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent57 {
+    padding-left: 48px;
+    padding-right: 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .your-cart {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

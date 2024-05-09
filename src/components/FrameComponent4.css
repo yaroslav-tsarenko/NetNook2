@@ -1,0 +1,364 @@
+.select-available-countries3 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.search-datapacks-from3 {
+  width: calc(100% - 96px);
+  border: 0;
+  outline: 0;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  color: #717171;
+  text-align: center;
+  display: inline-block;
+  min-width: 150px;
+  max-width: calc(100% - 88px);
+  padding: 0;
+}
+.search-normal-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.search-datapacks-from-200-cou-container {
+  width: 527px;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 36px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+}
+.select-available-countries-container {
+  width: 908px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.popular-countries3 {
+  position: relative;
+  line-height: 22px;
+}
+.flagsnepal-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.nepal13 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.countries15 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #374375;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 138px 12px 24px;
+  gap: 20px;
+  color: #fff;
+}
+.flagsindia-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.india3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+}
+.countries16 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 143px 12px 24px;
+  gap: 20px;
+}
+.flagsjapan-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.japan3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 53px;
+}
+.countries17 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 135px 12px 24px;
+  gap: 20px;
+}
+.flagsmaldives-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.maldives3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 76px;
+}
+.countries18 {
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 112px 12px 24px;
+  gap: 24px;
+}
+.flagschina-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.china3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 49px;
+}
+.countries19 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 139px 12px 24px;
+  gap: 20px;
+}
+.countries-container,
+.popular-countries-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.countries-container {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 27px;
+  color: #000;
+}
+.popular-countries-container {
+  width: 260px;
+  align-items: center;
+  gap: 32px;
+}
+.data-packs-container,
+.data-packs-group,
+.frame-parent36,
+.frame-parent37 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.data-packs-group {
+  align-self: stretch;
+}
+.data-packs-container,
+.frame-parent36,
+.frame-parent37 {
+  width: 1174px;
+}
+.frame-parent36,
+.frame-parent37 {
+  width: 1194px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 98px;
+}
+.frame-parent36 {
+  width: 1735px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 20.5px;
+  gap: 20px;
+  text-align: left;
+  font-size: 18px;
+  color: #262626;
+}
+.tag-icon28 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button29 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+}
+.tag-icon29 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button28,
+.frame-parent35 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button28 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  width: 400px;
+  border-radius: 16px;
+  align-items: center;
+  gap: 16px;
+}
+.frame-parent35 {
+  align-self: stretch;
+  background-color: #dbdcf0;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 96px 92.5px;
+  gap: 107px 153px;
+  min-height: 1436px;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1900px) {
+  .frame-parent36 {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 1425px) {
+  .data-packs-container,
+  .data-packs-group {
+    flex-wrap: wrap;
+  }
+  .frame-parent37 {
+    gap: 49px;
+  }
+  .frame-parent36 {
+    max-width: 100%;
+  }
+  .frame-parent35 {
+    gap: 76px;
+    padding: 62px 46px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .select-available-countries3 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .search-datapacks-from-200-cou-container {
+    gap: 32px;
+  }
+  .frame-parent37 {
+    gap: 24px;
+  }
+  .frame-parent36 {
+    max-width: 100%;
+  }
+  .frame-parent35 {
+    gap: 38px;
+    padding: 40px 23px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .select-available-countries3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .search-datapacks-from-200-cou-container {
+    gap: 16px;
+  }
+  .countries15,
+  .countries16,
+  .countries17,
+  .countries18,
+  .countries19 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .popular-countries-container {
+    gap: 16px;
+  }
+  .frame-parent36 {
+    max-width: 100%;
+  }
+  .frame-parent35 {
+    gap: 19px;
+  }
+}

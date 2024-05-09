@@ -1,0 +1,58 @@
+.frame-child17 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.tag-icon55 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button53 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 68px;
+}
+.tag-icon56 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button52,
+.line-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button52 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 66px;
+  background-color: #374375;
+  border-radius: 16px;
+  flex-direction: row;
+  gap: 16px;
+}
+.line-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 35px;
+}
+@media screen and (max-width: 850px) {
+  .line-parent {
+    gap: 17px;
+  }
+}

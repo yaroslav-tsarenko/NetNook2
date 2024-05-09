@@ -1,0 +1,26 @@
+.logologo-symbol-icon15 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.netnook21 {
+  position: relative;
+  white-space: nowrap;
+}
+.logo24,
+.netnook-wrapper14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 12px 20px 0;
+}
+.logo24 {
+  padding: 0 5px;
+  text-align: left;
+  font-size: 33.3px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}

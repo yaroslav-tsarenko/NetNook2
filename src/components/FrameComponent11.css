@@ -1,0 +1,961 @@
+.select-available-countries4 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.search-datapacks-from4 {
+  width: calc(100% - 96px);
+  border: 0;
+  outline: 0;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  color: #717171;
+  text-align: center;
+  display: inline-block;
+  min-width: 150px;
+  max-width: calc(100% - 88px);
+  padding: 0;
+}
+.search-normal-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.rotate-ring,
+.transform-tree {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.transform-tree {
+  width: 527px;
+  border-radius: 8px;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 36px;
+  box-sizing: border-box;
+  gap: 64px;
+}
+.rotate-ring {
+  width: 908px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.popular-countries4 {
+  position: relative;
+  line-height: 22px;
+}
+.flagsnepal-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.nepal14 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.countries20 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #374375;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 138px 12px 24px;
+  gap: 20px;
+  color: #fff;
+}
+.flagsindia-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.india4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+}
+.countries21 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 143px 12px 24px;
+  gap: 20px;
+}
+.flagsjapan-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.japan4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 53px;
+}
+.countries22 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 135px 12px 24px;
+  gap: 20px;
+}
+.flagsmaldives-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.maldives4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 76px;
+}
+.countries23 {
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 112px 12px 24px;
+  gap: 24px;
+}
+.flagschina-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.china4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 49px;
+}
+.countries24 {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 139px 12px 24px;
+  gap: 20px;
+}
+.duplicate-dupl,
+.spacer-stack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.duplicate-dupl {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 27px;
+  color: #000;
+}
+.spacer-stack {
+  width: 260px;
+  align-items: center;
+  gap: 32px;
+}
+.font-folder-icon,
+.nepal-ntc10 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc10 {
+  line-height: 22px;
+}
+.font-folder-icon {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon10 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage10 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.variants-variety {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon10 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data10 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.data-aggregator1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon10 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity12 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon10 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price10 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent6,
+.prototyping-platform {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.prototyping-platform {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days11,
+.gb13,
+.nepal15,
+.us-45010 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days11,
+.gb13,
+.us-45010 {
+  min-width: 35px;
+}
+.days11,
+.us-45010 {
+  min-width: 58px;
+}
+.us-45010 {
+  min-width: 67px;
+}
+.nepal-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.color-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon38 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button37 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon39 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button36,
+.data-packs10 {
+  display: flex;
+  align-items: center;
+}
+.button36 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs10 {
+  width: 332px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px 24.1px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 332px;
+  max-width: 100%;
+}
+.data-packs-child5,
+.nepal-ntc11 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc11 {
+  line-height: 22px;
+}
+.data-packs-child5 {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon11 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage11 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.global-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon11 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data11 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.tablermobiledata-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon11 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity13 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon11 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price11 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent7,
+.frame-parent49 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent49 {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days12,
+.gb14,
+.nepal16,
+.us-45011 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days12,
+.gb14,
+.us-45011 {
+  min-width: 35px;
+}
+.days12,
+.us-45011 {
+  min-width: 58px;
+}
+.us-45011 {
+  min-width: 77px;
+}
+.nepal-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.frame-parent48 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon40 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button39 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon41 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button38,
+.data-packs11 {
+  display: flex;
+  align-items: center;
+}
+.button38 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs11 {
+  width: 342px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 342px;
+  max-width: 100%;
+}
+.data-packs-child6,
+.nepal-ntc12 {
+  align-self: stretch;
+  position: relative;
+}
+.nepal-ntc12 {
+  line-height: 22px;
+}
+.data-packs-child6 {
+  height: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.global-icon12 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.coverage12 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.global-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.tablermobiledata-icon12 {
+  align-self: stretch;
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.data12 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 34px;
+}
+.tablermobiledata-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calendar-add-icon12 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.validity14 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.calendar-add-parent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.buy-crypto-icon12 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.price12 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.buy-crypto-parent8,
+.frame-parent51 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent51 {
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+.days13,
+.gb15,
+.nepal17,
+.us-45012 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.days13,
+.gb15,
+.us-45012 {
+  min-width: 45px;
+}
+.days13,
+.us-45012 {
+  min-width: 58px;
+}
+.us-45012 {
+  min-width: 77px;
+}
+.nepal-parent8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  color: #262626;
+}
+.frame-parent50 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #1d1d1d;
+}
+.tag-icon42 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button41 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.tag-icon43 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button40,
+.data-packs12 {
+  display: flex;
+  align-items: center;
+}
+.button40 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  align-self: stretch;
+  border-radius: 16px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.data-packs12 {
+  width: 342px;
+  border-radius: 12px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 36px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 342px;
+  max-width: 100%;
+}
+.layout-layer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.flip-flopper,
+.layout-layer-wrapper {
+  width: 1194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.flip-flopper {
+  width: 1735px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 20.5px;
+  box-sizing: border-box;
+  gap: 20px;
+  text-align: left;
+  font-size: 18px;
+  color: #262626;
+}
+.tag-icon44 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button43 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "IBM Plex Sans";
+  color: #fff;
+  text-align: center;
+}
+.tag-icon45 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button42,
+.shadow-saver {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button42 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #374375;
+  width: 400px;
+  border-radius: 16px;
+  align-items: center;
+  gap: 16px;
+}
+.shadow-saver {
+  align-self: stretch;
+  background-color: #dfaea0;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 96px 92.5px;
+  gap: 107px 153px;
+  min-height: 972px;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: "IBM Plex Sans";
+}
+@media screen and (max-width: 1900px) {
+  .flip-flopper {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 1425px) {
+  .data-packs10,
+  .data-packs11,
+  .data-packs12 {
+    flex: 1;
+  }
+  .layout-layer {
+    flex-wrap: wrap;
+  }
+  .layout-layer-wrapper {
+    gap: 49px;
+  }
+  .flip-flopper {
+    max-width: 100%;
+  }
+  .shadow-saver {
+    gap: 76px;
+    padding-left: 46px;
+    padding-right: 46px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .select-available-countries4 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .transform-tree {
+    gap: 32px;
+  }
+  .data-packs11,
+  .data-packs12 {
+    min-width: 100%;
+  }
+  .layout-layer-wrapper {
+    gap: 24px;
+  }
+  .flip-flopper {
+    max-width: 100%;
+  }
+  .shadow-saver {
+    gap: 38px;
+    padding: 62px 23px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .select-available-countries4 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .transform-tree {
+    gap: 16px;
+  }
+  .countries20,
+  .countries21,
+  .countries22,
+  .countries23,
+  .countries24 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .spacer-stack {
+    gap: 16px;
+  }
+  .color-container {
+    flex-wrap: wrap;
+  }
+  .data-packs10 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .frame-parent48 {
+    flex-wrap: wrap;
+  }
+  .data-packs11 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .frame-parent50 {
+    flex-wrap: wrap;
+  }
+  .data-packs12 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .flip-flopper {
+    max-width: 100%;
+  }
+  .shadow-saver {
+    gap: 19px;
+  }
+}
