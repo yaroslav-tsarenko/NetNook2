@@ -288,6 +288,7 @@ const Blogs: FunctionComponent = () => {
           propPadding="0px 0px 50px"
         />
       </section>
+      //
     </div>
   );
 };
